@@ -1,4 +1,4 @@
-# sso_dummy
+# SSO Dummy 
 
 Dummy .Net Core 3.1 with IdentityServer4 project. 
 
